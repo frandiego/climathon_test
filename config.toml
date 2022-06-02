@@ -13,10 +13,10 @@ theme = "hero"
   google_analytics_id=""
 
   [params.logo]
-    mobile = "images/logo-mobile.svg"
+    mobile = "images/white.svg"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "images/logo.svg"
+    desktop = "images/white.svg"
     desktop_height = "29px"
     desktop_width = "217px"
     alt = "Climathon Sevilla"
@@ -33,7 +33,7 @@ theme = "hero"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Services"
+	name = "Colaboradores"
 	url = "/services/"
     weight = 1
 
@@ -52,10 +52,6 @@ theme = "hero"
     url = "/history/"
     weight = 3
 
-[[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"

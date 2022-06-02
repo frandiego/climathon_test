@@ -1,7 +1,7 @@
 ---
 title: "¿Qué es Climathon?"
 weight: 1
-background: 'images/work_background.svg'
+background: 'images/subhome_background.png'
 button: 'Official Page'
 buttonLink: 'https://climathon.climate-kic.org/'
 ---
