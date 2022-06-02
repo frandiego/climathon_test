@@ -1,6 +1,6 @@
 ---
-title: 'Colaboradores'
-heroHeading: 'Colaboradores'
+title: 'Colabora'
+heroHeading: 'Colabora'
 heroSubHeading: ''
 heroBackground: 'https://source.unsplash.com/36Vbwo1OiZU/1600x400'
 

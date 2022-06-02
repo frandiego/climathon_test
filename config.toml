@@ -14,7 +14,7 @@ enableEmoji = true
   google_analytics_id=""
 
   [params.logo]
-    mobile = "images/white.svg"
+    mobile = "images/home_icon.svg"
     mobile_height = "36px"
     mobile_width = "36px"
     desktop = "images/logo_01.svg"
@@ -34,15 +34,22 @@ enableEmoji = true
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Colaboradores"
+	name = "Colabora"
 	url = "/services/"
     weight = 1
     enableEmoji = true
 
 [[menu.main]]
-    name = "Retos"
+    name = "2022"
     url = "/work/"
     weight = 2
+
+
+[[menu.main]]
+    name = "Participa"
+    url = "/history/"
+    weight = 3
+
 
 [[menu.main]]
     name = "Ediciones"

@@ -7,11 +7,13 @@ heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
 ---
 
 <div>
-{{< content-strip-left "/pages/about" "content1" >}}
+{{< content-strip-left "/pages/about" "2020" >}}
 </div>
+
 <div>
-{{< content-strip-right "/pages/about" "content2" >}}
+{{< content-strip-right "/pages/about" "2021" >}}
 </div>
+
 <div>
-{{< content-strip-center "/pages/about" "content3" >}}
+{{< content-strip-center "/pages/about" "2022" >}}
 </div>
