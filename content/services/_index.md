@@ -19,7 +19,10 @@ __Compromiso medioambiental__: Demostración del compromiso medioambiental de la
 
 __Networking__: Expansión de la red de contactos y seguidores en RRSS.
 
-#### Colaborador Premium (+4.000€)  
+#### Colaborador Premium (6.000€)  
+
+A las ventajas anteriores se añaden: 
+
 
 __Propuesta de reto personalizado__: El reto puede encajarse dentro de los ámbitos: economía circular, movilidad, eficiencia, alimentación, innovación, transición energética, etc. Se buscará que dicho reto tenga continuidad post- Climathon a través de un programa de mentorización/emprendimiento por parte de la empresa.
 
