@@ -1,7 +1,7 @@
 ---
-title: 'Colaboradores'
+title: 'Ediciones Anteriores'
 layout: 'about'
-heroHeading: 'Ediciones'
+heroHeading: 'Ediciones Anteriores'
 heroSubHeading: ""
 heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
 ---
