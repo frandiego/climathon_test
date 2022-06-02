@@ -37,22 +37,19 @@ enableEmoji = true
 	name = "Colabora"
 	url = "/services/"
     weight = 1
-    enableEmoji = true
 
 [[menu.main]]
     name = "2022"
     url = "/work/"
     weight = 2
 
-
 [[menu.main]]
     name = "Participa"
     url = "/history/"
     weight = 3
 
-
 [[menu.main]]
-    name = "Ediciones"
+    name = "Ediciones Anterires"
     url = "/about/"
     weight = 3
 
