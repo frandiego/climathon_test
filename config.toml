@@ -1,8 +1,9 @@
 baseURL = "https://www.example.com/"
-languageCode = "en-us"
+languageCode = "es-ES"
 title = "Climaton SVQ"
 themesDir = "themes"
 theme = "hero"
+enableEmoji = true
 
 [module]
   [module.hugoVersion]
@@ -16,7 +17,7 @@ theme = "hero"
     mobile = "images/white.svg"
     mobile_height = "36px"
     mobile_width = "36px"
-    desktop = "images/white.svg"
+    desktop = "images/logo_01.svg"
     desktop_height = "29px"
     desktop_width = "217px"
     alt = "Climathon Sevilla"
@@ -36,20 +37,16 @@ theme = "hero"
 	name = "Colaboradores"
 	url = "/services/"
     weight = 1
+    enableEmoji = true
 
 [[menu.main]]
-    name = "Work"
+    name = "Retos"
     url = "/work/"
     weight = 2
 
 [[menu.main]]
-    name = "About"
+    name = "Ediciones"
     url = "/about/"
-    weight = 3
-
-[[menu.main]]
-    name = "History"
-    url = "/history/"
     weight = 3
 
 
