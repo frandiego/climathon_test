@@ -1,9 +1,9 @@
 ---
-title: 'Our Difference'
+title: 'Nuestra Misión'
 weight: 2
 background: ''
 button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+El evento Climathon Sevilla es un evento local que conecta a personas de diferentes edades y ámbitos donde se buscan solucaiones a los retos propuestos por entidades públicas o privadas de la ciudad que faciliten la mitigacción y adaptación al cambio climático. 

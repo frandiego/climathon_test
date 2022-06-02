@@ -1,9 +1,9 @@
 ---
-title: 'We Help Business Grow'
+title: "¿Qué es Climathon?"
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
-buttonLink: 'work'
+background: 'images/work_background.svg'
+button: 'Official Page'
+buttonLink: 'https://climathon.climate-kic.org/'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+Climathon es un programa de colaboración ciudadana promoovidor por Climate KIC para crear ideas y proyectos que hagan frente a los retos del cambio climático. En Sevilla llevamos 3 años desarrollano este evento y creando soluciones a problemas climáticos de la ciudad. 

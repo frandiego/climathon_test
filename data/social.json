@@ -1,12 +1,17 @@
 [
     {
-        "name": "Github",
-        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
-        "image": "social/github.svg"
+        "name": "Instagram",
+        "link": "https://www.instagram.com/climathonsev/",
+        "image": "social/ig-instagram.svg"
     },
     {
         "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
-        "image": "social/twitter.svg"
+        "link": "https://twitter.com/GlobalClimathon",
+        "image": "social/twitter-color.svg"
+    },
+    {
+        "name": "Linedin",
+        "link": "https://www.linkedin.com/company/climathon-sevilla/",
+        "image": "social/linkedin-app.svg"
     }
 ]
