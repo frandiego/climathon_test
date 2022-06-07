@@ -29,3 +29,12 @@ __Propuesta de reto personalizado__: El reto puede encajarse dentro de los ámbi
 __Talento__ comprometido trabajando para solventar el reto propuesto.
 
 __Mayor Visibilidad__: Existirá la posibilidad de emitir contenido audiovisual propio o realizar una pequeña ponencia durante el evento, e incluso formar parte del jurado.
+
+[Mándanos tu Propuesta](mailto:climathonsevilla@gmail.com)
+
+
+------------------------------------
+***********************************
+
+
+### Colaboradores Edición 2021 
