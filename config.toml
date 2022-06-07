@@ -38,10 +38,10 @@ enableEmoji = true
 	url = "/services/"
     weight = 1
 
-[[menu.main]]
-    name = "2022"
-    url = "/work/"
-    weight = 2
+# [[menu.main]]
+#    name = "2022"
+#    url = "/work/"
+#    weight = 2
 
 [[menu.main]]
     name = "Participa"
