@@ -1,6 +1,6 @@
 ---
 title: 'PCT Cartuja (Colaborador Premium)'
-icon: 'services/service-icon-6.png'
+icon: 'services/logo_pct.svg'
 draft: false
 featured: true
 weight: 2

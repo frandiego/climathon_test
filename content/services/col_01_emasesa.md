@@ -1,6 +1,6 @@
 ---
 title: 'Emasesa (Colaborador Premium)'
-icon: 'services/service-icon-1.png'
+icon: 'services/logo_emasesa.svg'
 draft: false
 featured: true
 weight: 1
