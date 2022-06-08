@@ -3,7 +3,7 @@ title: 'Ediciones Anteriores'
 layout: 'about'
 heroHeading: 'Ediciones Anteriores'
 heroSubHeading: ""
-heroBackground: 'https://source.unsplash.com/F2HTC_CF4Jo/1600x1000'
+heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
 ---
 
 <div>
@@ -14,6 +14,3 @@ heroBackground: 'https://source.unsplash.com/F2HTC_CF4Jo/1600x1000'
 {{< content-strip-right "/pages/about" "2021" >}}
 </div>
 
-<div>
-{{< content-strip-center "/pages/about" "2022" >}}
-</div>

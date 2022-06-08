@@ -11,6 +11,10 @@ enableEmoji = true
     min = "0.92.0"
     
 [params]
+  typeformid = "Qvv7tYxk" # Required
+  typeformuser = "01D8JX5E2RDKYKP36AKNWVPNQE" # Optional
+  typeformwidth = "100%" # Optional
+  typeformheight = "800px" # Optional
   google_analytics_id=""
 
   [params.logo]
