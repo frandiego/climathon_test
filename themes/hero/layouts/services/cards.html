@@ -1,4 +1,4 @@
-<div class="service service-summary">
+<div class="service service-cards">
   {{ if .Params.icon }}
   <div class="service-image">
     <img height="80" width="80" src="{{ .Params.icon | relURL }}" alt="{{ .Title }}" />
@@ -7,5 +7,7 @@
   <div class="service-content">
     <h2 class="service-title">
       <a class="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    {{ .Content | truncate 100 "..." }}
   </div>
 </div>

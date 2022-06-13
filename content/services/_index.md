@@ -34,7 +34,5 @@ __Mayor Visibilidad__: Existirá la posibilidad de emitir contenido audiovisual 
 
 
 ------------------------------------
-***********************************
-
 
 ### Colaboradores Edición 2021 

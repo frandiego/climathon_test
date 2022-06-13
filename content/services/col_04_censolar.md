@@ -6,6 +6,7 @@ featured: true
 weight: 1
 heroHeading: 'Emasesa'
 heroBackground: 'services/icon_emsasesa.png'
+premium: 'false'
 ---
 
 [Una oportunidad de concienciar y actuar por los retos climáticos que afronta la ciudad](https://www.emasesa.com/)
